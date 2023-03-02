@@ -1,0 +1,1 @@
+Time with Semaphores: 0.081589 Time with Mutex: 0.023798 Time with SpinLock: 0.087861 
